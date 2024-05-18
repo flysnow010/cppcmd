@@ -43,6 +43,6 @@
 
 ## 2.4 CmdIO
 接口列表:
-- readLine 从命令上读取一行
+- readLine 从命令行上读取一行
 - readAnyKey 读取任意按键
 
